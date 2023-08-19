@@ -1,0 +1,4 @@
+101789,Bangalore,Dharmapuri,300.00
+390098,Chennai,Mangalore,400.15
+654321,Andrapradesh,Kerala,1150.45
+879654,Delhi,Karnataka,3500.10
